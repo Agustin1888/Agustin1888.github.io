@@ -11,9 +11,9 @@
         <h1>Bienvenido a "El fornet"</h1>
         <nav>
             <ul>
-                <li><a href="index.html">Inicio</a></li>
-                <li><a href="productos.html">Productos</a></li>
-                <li><a href="Contactos.html">Contacto</a></li>
+                <li><a href="index.php">Inicio</a></li>
+                <li><a href="productos.php">Productos</a></li>
+                <li><a href="Contactos.php">Contacto</a></li>
             </ul>
         </nav>
     </header>
