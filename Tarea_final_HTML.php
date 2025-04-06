@@ -11,9 +11,7 @@
         <h1>Bienvenido a "El fornet"</h1>
         <nav>
             <ul>
-                <li><a href="Tarea_final_HTML.php">Inicio</a></li>
-                <li><a href="productos.php">Productos</a></li>
-                <li><a href="Contactos.php">Contacto</a></li>
+            <?php require_once 'Requyre.php'?>
             </ul>
         </nav>
     </header>
